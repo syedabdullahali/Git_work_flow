@@ -16,6 +16,15 @@ We follow a **standard Git Flow** model:
 | `release/*` | For final testing and version preparation |
 | `hotfix/*` | For critical production fixes |
 
+## 💡 Optional used
+| Extra  | Branch	Purpose |
+|--------|----------------|
+| bugfix/* |	Used like feature branches but specifically for bug fixes (from develop) |
+| experiment/* |	For prototype or trial code (not always merged) |
+| docs/*	| For documentation-only changes |
+| test/*	| For QA or testing automation work |
+| infra/* |	For DevOps or infrastructure updates |
+
 ---
 
 ## 🪄 Branch Naming Convention
