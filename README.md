@@ -185,15 +185,6 @@ git push origin hotfix/fix-login-error
 feature/user-upload-fix → develop → release/v1.0.0 → main
 ```
 
----
 
-**Author:** Team
-**Version:** 1.0
-**Last Updated:** 2025-10-14
 
-```
 
----
-
-Would you like me to make this Markdown look **GitHub-styled with emojis and color badges (for better presentation in README format)**? It’ll look great if you plan to show it to your manager or team tomorrow.
-```
